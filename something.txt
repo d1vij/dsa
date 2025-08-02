@@ -1,1 +1,2 @@
 anay rand
+kill_yourself(divij);
